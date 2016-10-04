@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkyNet.Transport", "SkyNet.
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{FC490A8E-BD9C-45A6-BD73-D1EA0E51C3DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkyNet.Transport.Test", "SkyNet.Transport.Test\SkyNet.Transport.Test.csproj", "{5AAF78CB-C86D-4E04-9CDB-E7605B148EC3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkyNet.Transport.Test", "Test\SkyNet.Transport.Test\SkyNet.Transport.Test.csproj", "{5AAF78CB-C86D-4E04-9CDB-E7605B148EC3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
