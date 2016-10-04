@@ -8,5 +8,6 @@ namespace SkyNet.Transport
 {
     public class Class1
     {
+
     }
 }
